@@ -1,0 +1,18 @@
+.image{
+    height: 200px;
+    width: 150px;
+}
+.delete{
+    background-color: red;
+}
+
+.table,th,td{
+    background-color: white;
+    width: 700px;
+    border: 1px solid gray ;
+    border-collapse: collapse;
+  
+}
+.maindata{
+    background-color: blueviolet;
+}
